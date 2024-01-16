@@ -1,0 +1,14 @@
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\bin\Debug\net6.0\ejercicio.array2.exe
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\bin\Debug\net6.0\ejercicio.array2.deps.json
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\bin\Debug\net6.0\ejercicio.array2.runtimeconfig.json
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\bin\Debug\net6.0\ejercicio.array2.dll
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\bin\Debug\net6.0\ejercicio.array2.pdb
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\obj\Debug\net6.0\ejercicio.array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\obj\Debug\net6.0\ejercicio.array2.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\obj\Debug\net6.0\ejercicio.array2.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\obj\Debug\net6.0\ejercicio.array2.csproj.CoreCompileInputs.cache
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\obj\Debug\net6.0\ejercicio.array2.dll
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\obj\Debug\net6.0\refint\ejercicio.array2.dll
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\obj\Debug\net6.0\ejercicio.array2.pdb
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\obj\Debug\net6.0\ejercicio.array2.genruntimeconfig.cache
+C:\Users\csi23-dmunnco\source\repos\ejercicio.array2\obj\Debug\net6.0\ref\ejercicio.array2.dll
